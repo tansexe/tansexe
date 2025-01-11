@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Taniya Pathak. 
 - 👀 Interested in development projects and exploring new tech.
-- 🌱 In-depth knowledge in MERN Stack, NextJS, Nuxt etc with a grasp of C++, Java and Javascript.
+- 🌱 In-depth knowledge in MERN Stack, NextJS & Nuxt with a grasp of C++, Java and Javascript.
 - 💞️ I’m looking to collaborate on anything which helps me grow and gives opportunities to challenge myself. 
 - 📫 Mail me at taniyanawalpathak@gmail.com for collaborations. 
