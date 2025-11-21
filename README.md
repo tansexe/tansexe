@@ -20,7 +20,7 @@
 - Vector Search Optimization
 - AI Infrastructure
 
-## ⚡ Fun Facts
+### ⚡ Fun Facts
 - Part of Depressed Poet CLub 🥁
 - Loves building chaotic but useful things
 
