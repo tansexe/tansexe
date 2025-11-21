@@ -1,21 +1,21 @@
-# Hey, I'm Taniya 👋
+## Hey, I'm Taniya 👋
 
 🚀 Full Stack Developer | AI & ML Enthusiast  
 💡 Building real-world systems, not just demos  
 
-## 🔧 Tech Stack
+### 🔧 Tech Stack
 - Languages: JavaScript, TypeScript, C, Java
 - Frontend: React, Next.js, Tailwind
 - Backend: Node.js, Firebase, MongoDB, PostgreSQL
 - AI/ML: RAG, Vector Databases, Gemini, Face Detection
 
-## 🔥 What I’m Working On
+### 🔥 What I’m Working On
 - 🤖 RAG-based chatbot for local businesses
 - 🎯 AI-powered clothing recommendation system
 - 🚌 Automated bus scheduling system
 - 🧠 Face detection + attendance system
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - System Design
 - Vector Search Optimization
 - AI Infrastructure
@@ -24,4 +24,5 @@
 - Part of Depressed Poet CLub 🥁
 - Loves building chaotic but useful things
 
-- 📫 Mail me at taniyanawalpathak@gmail.com for collaborations. 
+
+📫 Mail me at taniyanawalpathak@gmail.com for collaborations. 
