@@ -21,7 +21,7 @@
 - AI Infrastructure
 
 ### ⚡ Fun Facts
-- Part of Depressed Poet CLub 🥁
+- Part of Depressed Poet Club 🥁
 - Loves building chaotic but useful things
 
 
