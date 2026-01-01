@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Hi, I'm Taniya Nawal Pathak
 
 ### Building AI systems that actually work in production 🦾
@@ -14,8 +12,6 @@
 
 </div>
 
----
-
 ### 🌟 About Me
 
 ```typescript
@@ -26,8 +22,6 @@ const taniya = {
     passion: "Creating production-ready AI systems"
 };
 ```
-
----
 
 ### 💻 Tech Stack
 
@@ -64,14 +58,5 @@ const taniya = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-</div>
----
-
-<div align="center">
-
-### 💭 "Code is poetry, and every bug is a plot twist" ✨
-
-⭐️ From [Taniya Nawal Pathak](https://github.com/tansexe)
 
 </div>
