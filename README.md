@@ -4,7 +4,7 @@
 
 ```typescript
 const taniya = {
-    currentFocus: "DSA in Java",
+    currentFocus: "Working on Hermes",
     expertise: ["SpringBoot", "Angular", "Next.js", "AI Chatbots", "Vector Databases", "Git & GitHub"], 
     funFact: "Part of Depressed Poet Club 🥁",
     passion: "Creating production-ready AI systems"
