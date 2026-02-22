@@ -43,6 +43,7 @@ const taniya = {
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Vector DB](https://img.shields.io/badge/Vector_Databases-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Design & AI/ML
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
